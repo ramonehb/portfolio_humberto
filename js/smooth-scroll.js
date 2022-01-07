@@ -8,7 +8,7 @@
 (function() {
 
   var duration = 500
-
+  
   $('a[href*="#"]')
     // Remove links that don't actually link to anything
     .not('[href="#"]')
